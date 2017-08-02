@@ -1,0 +1,3 @@
+There are two different types of enemies that you can encounter along your journey.
+The first are your roaming enemies and the second are your random encounters.
+The others will have more information for you.

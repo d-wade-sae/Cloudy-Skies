@@ -1,0 +1,6 @@
+There are two ways that you can gain items.
+The first method is to fight monster, by doing so upon winning the battle there is a chance that it will drop loot. 
+This applies to enemies in open fields and dungeons that said there will always be a guaranteed drop of gold.
+The second method is to spend your gold at the 'Blacksmith' shop here in the 'Central Hub'. There you can
+buy or sell weapons, armours and misc. items.
+The others will have more information for you.

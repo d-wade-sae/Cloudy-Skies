@@ -1,0 +1,4 @@
+There are two types of Sign Posts that you will encounter in the world, which you can press 'Enter' on it to gain the following information;
+Generic 'Sign Posts' will give you helpful tips as you proceed throughout the game, whilst
+'Danger Sign Posts' will notify you that the proceeding area will consist of random encounter battles.
+The others will have more information for you.
